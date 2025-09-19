@@ -26,7 +26,7 @@ After running the script, a window will appear and you will see the drawing of D
 
 Once the script is finished, your Doraemon Drawing is ready! 🎉
 
-![Final Output](doreamon_python\doreamon_python_draw\pythonoutput.png)
+![Final Output](doreamon_python_draw/pythonoutput.png)
 
 ---
 
