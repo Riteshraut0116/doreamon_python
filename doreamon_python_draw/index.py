@@ -302,6 +302,3 @@ if __name__ == '__main__':
     pensize(3)
     speed(9)
     Doraemon()
-    ankur(100, -300)
-    write('by Developergtm❤️', font=("Bradley Hand ITC", 30, "bold"))
-    mainloop()
